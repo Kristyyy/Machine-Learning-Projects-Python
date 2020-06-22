@@ -39,3 +39,7 @@ Analyze the SFO and LAX data sets and determine if either marketing campaign was
 
 - Implemented ARIMA model, analyzed 2 data sets to predict the values for the next 8 time periods and the subsequent 7 years (with confidence intervals), and make 3 observations about the data (i.e., describe its composition and characteristics).
 
+## Forecasting on Video CTR
+
+- Using Moving Average, Exponential smoothing, AR and ARIMA model to forecast video CTR (click through rate)
+- Select a performance measure for the model and pick the best performing model with lowest MSE.
