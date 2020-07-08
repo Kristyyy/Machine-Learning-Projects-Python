@@ -43,3 +43,8 @@ Analyze the SFO and LAX data sets and determine if either marketing campaign was
 
 - Using Moving Average, Exponential smoothing, AR and ARIMA model to forecast video CTR (click through rate)
 - Select a performance measure for the model and pick the best performing model with lowest MSE.
+
+## Multiple Regression Analysis on Civilization VI Game Players' Active Days
+
+- Determine the causes of active day
+- Use multiple regression model to predict players' active day
