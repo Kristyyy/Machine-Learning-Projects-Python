@@ -4,7 +4,7 @@ I use regression analysis, logistic regression, hypothesis testing, time series 
 
 ## Hypothesis Analysis on Marketing Campaign and Driving Miles
 
-Analyze the SFO and LAX data sets and determine if either marketing campaign was successful in raising the average miles driven per Uber driver.
+- Analyze the SFO and LAX data sets and determine if either marketing campaign was successful in raising the average miles driven per Uber driver.
 
 ## Logistic Regression on Customers Transaction Prediction
 
